@@ -214,7 +214,7 @@ const PropertyDetails = () => {
               <Stack mt="15px" direction="row" alignItems="center" gap={1}>
                 <Place sx={{ color: "#808191" }} />
                 <Typography fontSize={14} fontWeight={400} color="#808191">
-                  North Carolina, USA
+                 Jodhpur, Rajasthan
                 </Typography>
               </Stack>
 

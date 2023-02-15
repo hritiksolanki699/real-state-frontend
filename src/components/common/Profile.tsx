@@ -96,8 +96,7 @@ const Profile = ({ type, name, avatar, email, properties }: ProfileProps) => (
                                             fontSize={14}
                                             color="#11142D"
                                         >
-                                            4517 Washington Ave. Manchaster,
-                                            Kentucky 39495
+                                            4517 Banar, Jodhpur, Rajasthan 342427
                                         </Typography>
                                     </Box>
                                 </Stack>
@@ -128,7 +127,7 @@ const Profile = ({ type, name, avatar, email, properties }: ProfileProps) => (
                                                 color="#11142D"
                                                 noWrap
                                             >
-                                                +0123 456 7890
+                                                +91 7221994974
                                             </Typography>
                                         </Box>
                                     </Stack>

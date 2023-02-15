@@ -1,3 +1,5 @@
+##[Deployment Link](https://real-state-frontend-ten.vercel.app/properties)
+
 # client
 
 <div align="center" style="margin: 30px;">

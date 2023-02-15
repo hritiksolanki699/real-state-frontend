@@ -98,11 +98,11 @@ const AgentCard = ({
                     />
                     <InfoBar
                         icon={<Place sx={{ color: "#808191" }} />}
-                        name="London"
+                        name="Jodhpur"
                     />
                     <InfoBar
                         icon={<Phone sx={{ color: "#808191" }} />}
-                        name="+502-3231-4141"
+                        name="+91 7221-994-975"
                     />
                     <InfoBar
                         icon={<LocationCity sx={{ color: "#808191" }} />}
